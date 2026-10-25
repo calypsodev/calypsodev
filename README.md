@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Eai. Sou um desenvolvedor e estudante de cybersegurança.</h2>
+<h2 data-importer="text" align="left">Eai.</h2>
 
 ###
 
